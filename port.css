@@ -1,0 +1,89 @@
+.por{
+    font-size: 4vh;
+    color:rgb(92, 107, 226);
+    font-family:Tahoma, Verdana, sans-serif;
+    letter-spacing:2px; 
+    text-align: center;
+    margin-left:-1000px;
+    margin-top:140px;
+  
+}
+.card{
+    background-color: rgba(118, 136, 40, 0.685);
+    height:680px;
+    width: 1400px;
+    margin-left:280px;
+    margin-top:-90px;  
+    border-radius:20px;
+}
+.ip{
+    display: flex;
+    gap: 50px;
+    margin-left:600px;
+    margin-top:20px;
+}
+.li{
+    margin-left: 1260px; 
+    margin-top:-40px;
+}
+.il{
+    margin-left: 1290px;
+    margin-top:-48px;
+}
+.oi{
+    margin-left:100px;
+    margin-top:180px;
+    font-size: 2.5vh;
+    color: white;
+}
+.oii{
+    margin-left:100px;
+    margin-top:5px;
+    font-size: 5vh;
+    color: white;
+}
+.oiii{
+    margin-left:100px;
+    margin-top:5px;
+    font-size: 4vh;
+    color: white;
+    color:rgb(92, 107, 226);
+}
+.oiiii{
+    margin-left:100px;
+    margin-top:2px;
+    font-size: 4vh;
+    color: white;
+}
+/* Basic button styling */
+.my-button{
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer; /* Mouse pointer shows as a hand when hovered */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+/* Hover effect */
+.my-button:hover{
+    background-color: #0056b3; /* Darker blue on hover */
+}
+.ll{
+    height: 1000px;
+    width:1000px;
+    margin-top:-422px;
+    margin-left:900px;
+}
+.o{
+    margin-left:1330px;
+    margin-top:-700px;
+    font-size:10vh;
+    color:whitesmoke;
+    transform: rotate(-90deg);
+    opacity: 0.3;
+}
